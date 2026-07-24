@@ -6,6 +6,8 @@ It's a video game about "Lost and Found" theme. My friend Serkan Celik and I dec
 
 Here's some screenshot for game and Stream in 2021.
 
+https://bakruu.itch.io/forgotten-and-found
+
 ![image](images/Screenshot%202026-07-24%20023014.png)
 
 
